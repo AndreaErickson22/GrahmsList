@@ -1,0 +1,53 @@
+.background{
+  background-color: rgb(101, 194, 244);
+height: 700px;
+width: 100%;
+  font-family: 'Catamaran', sans-serif, Bold;
+}
+h1 {
+ padding-top:20px;
+text-transform: uppercase;
+font-weight: 1200;
+font-size:45pt;
+ font-family: 'Catamaran', sans-serif, bold;
+}
+.card {
+ font-family: 'Catamaran', sans-serif;
+  margin: 10px;
+  padding: 10px;
+  outline: 2px;
+
+}
+#form-content {
+text-transform: uppercase;
+font-weight: 500;
+background-color: rgb(160, 23, 46);
+padding: 10px;
+border-color: blue 10px;
+ font-family: 'Catamaran', sans-serif;
+}
+.available-content{
+   text-transform: uppercase;
+font-weight: 800; 
+}
+.button{
+text-transform: uppercase;
+font-weight: 500;
+background-color: rgb(116, 16, 32);
+padding: 20px;
+margin: 10px;
+border-color: blue 10px;
+ font-family: 'Catamaran', sans-serif;
+}
+#btn{
+text-transform: uppercase;
+font-weight: 500;
+
+padding: 20px;
+margin: 10px;
+border-color: blue 10px;
+ font-family: 'Catamaran', sans-serif;
+.event{
+  text-transform: uppercase;
+font-weight: 500;
+}
